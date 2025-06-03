@@ -3,6 +3,13 @@ import DonateCard from "./DonateCard";
 const DonatePackages = () => {
   const packages = [
     {
+      title: "MINE",
+      price: 17,
+      duration: "месяц",
+      color: "text-yellow-600",
+      features: ["Базовые привилегии", "Цветной ник", "Доступ к донат зонам"],
+    },
+    {
       title: "VIP",
       price: 199,
       duration: "месяц",
