@@ -43,7 +43,7 @@ const Features = () => {
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-12">
           <h2 className="text-4xl font-bold mb-4 font-montserrat">
-            🎮 Почему CraftWorld?
+            🎮 Почему NezerMine?
           </h2>
           <p className="text-xl text-gray-600">
             Мы создали идеальную среду для твоего творчества

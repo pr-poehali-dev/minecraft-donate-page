@@ -6,7 +6,7 @@ const HeroSection = () => {
       <div className="absolute inset-0 bg-black/20"></div>
       <div className="relative max-w-6xl mx-auto text-center">
         <h1 className="text-5xl md:text-6xl font-bold mb-6 font-montserrat">
-          🏰 CraftWorld Server
+          🏰 NezerMine Server
         </h1>
         <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto opacity-90">
           Присоединяйся к лучшему серверу Minecraft! Получи уникальные
@@ -24,7 +24,7 @@ const HeroSection = () => {
             variant="outline"
             className="border-white text-white hover:bg-white hover:text-green-700"
           >
-            📋 IP: play.craftworld.ru
+            📋 IP: play.nezermine.ru
           </Button>
         </div>
       </div>
