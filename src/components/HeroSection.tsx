@@ -24,7 +24,7 @@ const HeroSection = () => {
             variant="outline"
             className="border-white text-white hover:bg-white hover:text-green-700"
           >
-            📋 IP: play.nezermine.ru
+            📋 IP: mc.nezermine.ru
           </Button>
         </div>
       </div>
