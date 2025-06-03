@@ -6,7 +6,7 @@ const DonatePackages = () => {
       title: "MINE",
       price: 17,
       duration: "месяц",
-      color: "text-yellow-600",
+      color: "text-green-600",
       features: ["Базовые привилегии", "Цветной ник", "Доступ к донат зонам"],
     },
     {
